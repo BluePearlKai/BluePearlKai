@@ -65,23 +65,7 @@ An AI-assisted medical report summarization and health information project devel
 
 *More cybersecurity-focused labs and projects will be added as I build and document them.*
 
-## `$ github_activity`
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BluePearlKai&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BluePearlKai&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BluePearlKai&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3" alt="Most used programming languages" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BluePearlKai&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E6EDF3&dates=8B949E)
-
-</div>
 
 ## `$ connect`
 
