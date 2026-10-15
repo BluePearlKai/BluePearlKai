@@ -10,7 +10,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BluePearlKai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/ayushi-srivastava/)
+[![LinkedIn](https://www.linkedin.com/in/ayushi-srivastava-13668932b/)
 [![Cybersecurity](https://img.shields.io/badge/Focus-Blue%20Team-142B4A?style=for-the-badge&logo=target&logoColor=38BDF8)](https://github.com/BluePearlKai)
 
 </div>
