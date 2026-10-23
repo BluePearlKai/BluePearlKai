@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# `BluePearlKai`
+# `Ayushi Srivastava`
 
 ### Cybersecurity Learner | Aspiring Blue Teamer
 
